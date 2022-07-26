@@ -1,0 +1,1 @@
+SELECT * FROM users JOIN cities ON "cityId" =cities.Id WHERE "cityId" = 3658
